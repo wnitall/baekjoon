@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/minsu/백준/build/수이어쓰기"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CC0, symSize: 0xB8 }
+  - { offsetInCU: 0x4645, offset: 0x4645, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB7v160006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x114, symBinAddr: 0x100003DD4, symSize: 0x58 }
+  - { offsetInCU: 0x4685, offset: 0x4685, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB7v160006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x1F0, symBinAddr: 0x100003EB0, symSize: 0x2C }
+  - { offsetInCU: 0x702C, offset: 0x702C, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CC0, symSize: 0xB8 }
+  - { offsetInCU: 0x707E, offset: 0x707E, size: 0x8, addend: 0x0, symName: __Z5log10B7v160006IiENSt3__19enable_ifIXsr3std11is_integralIT_EE5valueEdE4typeES2_, symObjAddr: 0xB8, symBinAddr: 0x100003D78, symSize: 0x30 }
+  - { offsetInCU: 0x7162, offset: 0x7162, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB7v160006EPFRS3_S4_E, symObjAddr: 0xE8, symBinAddr: 0x100003DA8, symSize: 0x2C }
+  - { offsetInCU: 0x7194, offset: 0x7194, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB7v160006Ec, symObjAddr: 0x16C, symBinAddr: 0x100003E2C, symSize: 0x84 }
+  - { offsetInCU: 0x7200, offset: 0x7200, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB7v160006Ec, symObjAddr: 0x21C, symBinAddr: 0x100003EDC, symSize: 0x38 }
+...
